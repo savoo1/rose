@@ -273,7 +273,7 @@ nav .left {
   background: #f8f8f8;
   padding: 5px 12px 5px 3px;
 }
-.language-switcher .choosen img {
+.language-switcher .choosen .arrow-d {
   max-width: 20px;
 }
 .language-switcher .choosen .flag-icon {
